@@ -29,7 +29,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/<your-username>/speedprobe.git
+git clone https://github.com/MakeStepanGreatAgain/Set-Net-SpeedProbe-.git
 cd speedprobe
 ```
 
